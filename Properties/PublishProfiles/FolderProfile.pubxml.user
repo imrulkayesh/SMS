@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Publish-Imrul\SMS</_PublishTargetUrl>
+    <History>True|2024-07-30T04:32:08.1953443Z;True|2024-07-30T10:20:20.8710963+06:00;True|2024-07-30T09:45:32.8066103+06:00;True|2024-07-30T09:44:58.0196330+06:00;True|2024-07-30T09:43:26.6520276+06:00;True|2024-07-30T09:37:07.0095920+06:00;True|2024-07-30T09:17:52.1665260+06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
