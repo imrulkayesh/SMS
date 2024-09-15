@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Imrul\\My Apps\\SMS\\SMS.csproj": {}
+    "D:\\SMS\\SMS.csproj": {}
   },
   "projects": {
-    "G:\\Imrul\\My Apps\\SMS\\SMS.csproj": {
+    "D:\\SMS\\SMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Imrul\\My Apps\\SMS\\SMS.csproj",
+        "projectUniqueName": "D:\\SMS\\SMS.csproj",
         "projectName": "SMS",
-        "projectPath": "G:\\Imrul\\My Apps\\SMS\\SMS.csproj",
-        "packagesPath": "C:\\Users\\Imran Khan\\.nuget\\packages\\",
-        "outputPath": "G:\\Imrul\\My Apps\\SMS\\obj\\",
+        "projectPath": "D:\\SMS\\SMS.csproj",
+        "packagesPath": "C:\\Users\\jaits\\.nuget\\packages\\",
+        "outputPath": "D:\\SMS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Imran Khan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jaits\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
